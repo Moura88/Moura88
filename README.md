@@ -71,6 +71,18 @@ PostgreSQL • MongoDB
 
 <h1>🔥 Streak Stats </h1><br>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moura88&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
