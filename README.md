@@ -2,31 +2,43 @@
 
 Sou dev Full Stack, atualmente estou criando projetos como soluções reais.
 
-Não curto código por código.
+Não curto código por código.<br>
 Curto código que:
 
-✔️ Resolve problema
-✔️ Economiza tempo
-✔️ Gera dinheiro
-✔️ Escala negócio
+✔️ Resolve problema<br>
+✔️ Economiza tempo<br>
+✔️ Gera dinheiro<br>
+✔️ Escala negócio<br>
 
-Meu foco é produto + performance.
-Stack é ferramenta. Resultado é o objetivo.
+Meu foco é produto + performance.<br>
+Stack é ferramenta. Resultado é o objetivo.<br>
 
-<h1>🧠 O que faço bem </h1>
-🚀 Sistemas web rápidos e escaláveis
-🔗 Integração entre APIs e plataformas
-🤖 Agentes de IA para atendimento e operação
-⚙️ Automações com n8n
-📊 Produtos orientados a negócio
-👥 Mentoria e apoio a devs iniciantes
+<h1>🧠 O que faço bem </h1><br>
+🚀 Sistemas web rápidos e escaláveis<br>
 
-📈 Impacto real
-✅ +40% vendas com automações
-✅ +35% eficiência operacional
-✅ -65% tempo de deploy
-✅ Processos manuais virando automáticos
-✅ UX melhorando conversão
+<h1>🛠️ Tech Stack</h1><br>
+Frontend<br>
+React • TypeScript • 
+React Query • 
+
+<h1>Backend</h1><br>
+Node.js • 
+PostgreSQL • MongoDB
+
+<h1>🚀 Projetos Destaque</h1><br>
+
+<h1>🔭 Currently Building</h1><br>
+
+⚙️ <br>
+
+<h1>🌍 Open To </h1><br>
+✔️ Freelancers<br>
+✔️ Projetos SaaS<br>
+✔️ Produtos digitais<br>
+✔️ Oportunidades internacionais<br>
+✔️ Parcerias tech<br>
+
+<h1>🔥 Streak Stats </h1><br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -37,8 +49,3 @@ Stack é ferramenta. Resultado é o objetivo.
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=moura88&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=moura88&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moura88)](https://github.com/anuraghazra/github-readme-stats)
