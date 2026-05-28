@@ -1,6 +1,23 @@
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Fala,+eu+sou+Jeferson+Moura;Full+Stack+Developer;AI+%26+Automation+Builder;Transformando+ideias+em+produtos+reais;Código+que+gera+resultado" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Moura88?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Moura88?label=Stars&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Mindset-ON-success?style=for-the-badge"/>
+</p>
+
+---
+
 <h1>👋 Quem é o Jeferson? </h1>
 
-Sou dev Full Stack, atualmente estou criando projetos como soluções reais.
+Sou dev Full Stack, atualmente estou criando projetos como **soluções reais**.
 
 Não curto código por código.<br>
 Curto código que:
@@ -10,26 +27,38 @@ Curto código que:
 ✔️ Gera dinheiro<br>
 ✔️ Escala negócio<br>
 
-Meu foco é produto + performance.<br>
+Meu foco é **produto + performance**.<br>
 Stack é ferramenta. Resultado é o objetivo.<br>
+
+---
 
 <h1>🧠 O que faço bem </h1><br>
 🚀 Sistemas web rápidos e escaláveis<br>
+
+---
 
 <h1>🛠️ Tech Stack</h1><br>
 Frontend<br>
 React • TypeScript • 
 React Query • 
 
+---
+
 <h1>Backend</h1><br>
 Node.js • 
 PostgreSQL • MongoDB
 
+---
+
 <h1>🚀 Projetos Destaque</h1><br>
+
+---
 
 <h1>🔭 Currently Building</h1><br>
 
 ⚙️ <br>
+
+---
 
 <h1>🌍 Open To </h1><br>
 ✔️ Freelancers<br>
@@ -38,7 +67,11 @@ PostgreSQL • MongoDB
 ✔️ Oportunidades internacionais<br>
 ✔️ Parcerias tech<br>
 
+---
+
 <h1>🔥 Streak Stats </h1><br>
+
+---
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
