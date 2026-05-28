@@ -1,6 +1,32 @@
 <h1>👋 Quem é o Jeferson? </h1>
 
-Eu sou Jeferson Moura, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Sou dev Full Stack, atualmente estou criando projetos como soluções reais.
+
+Não curto código por código.
+Curto código que:
+
+✔️ Resolve problema
+✔️ Economiza tempo
+✔️ Gera dinheiro
+✔️ Escala negócio
+
+Meu foco é produto + performance.
+Stack é ferramenta. Resultado é o objetivo.
+
+<h1>🧠 O que faço bem </h1>
+🚀 Sistemas web rápidos e escaláveis
+🔗 Integração entre APIs e plataformas
+🤖 Agentes de IA para atendimento e operação
+⚙️ Automações com n8n
+📊 Produtos orientados a negócio
+👥 Mentoria e apoio a devs iniciantes
+
+📈 Impacto real
+✅ +40% vendas com automações
+✅ +35% eficiência operacional
+✅ -65% tempo de deploy
+✅ Processos manuais virando automáticos
+✅ UX melhorando conversão
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
