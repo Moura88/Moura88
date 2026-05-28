@@ -1,4 +1,4 @@
-👋 Quem éo Jeferson?
+<h1>👋 Quem é o Jeferson? </h1>
 
 Eu sou Jeferson Moura, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 
